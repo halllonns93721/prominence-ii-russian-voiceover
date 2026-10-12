@@ -1,0 +1,15 @@
+# docs-only repo: never commit gameplay assets
+*.zip
+*.ogg
+*.wav
+*.mp3
+*.flac
+*.opus
+*.mp4
+*.mkv
+*.webm
+minecraft/
+saves/
+*.log
+.DS_Store
+Thumbs.db
